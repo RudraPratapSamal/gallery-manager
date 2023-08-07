@@ -12,17 +12,29 @@ Name the parent directory 'sample' to prevent any error.
 The directory and file system will be look like that:
 
 sample
+   
    |
+   
    +--.gradle
+   
    +--.idea
+   
    +--app
+   
    +--gradle
+   
    |--.gitignore
+   
    |--build.gradle
+   
    |--gradle.properties
+   
    |--gradlew
+   
    |--gradlew.bat
+   
    |--local.properties
+   
    |--settings.gradle
 
 Now you can open the directory named 'sample' in the Android Studio
