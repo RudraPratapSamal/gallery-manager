@@ -12,7 +12,6 @@ Name the parent directory 'sample' to prevent any error.
 The directory and file system will be look like that:
 
 sample
-   - |
    - +--.gradle
    - +--.idea
    - +--app
